@@ -1,0 +1,9 @@
+{
+	"name": "azuredfsales",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "96c1ab26-541b-43b5-b486-10cb1ad67c01",
+		"tenantId": "f82aaf52-c1b5-4f51-ae76-2102113c9912"
+	}
+}
